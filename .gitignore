@@ -1,4 +1,13 @@
 .idea
+out
+workload_generator/communication
+workload_generator/fitting/min
+workload_generator/fitting/d
+workload_generator/fitting/*.dat
+workload_generator/external/impressions
+
+
+
 
 
 
