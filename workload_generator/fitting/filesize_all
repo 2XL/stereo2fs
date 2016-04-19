@@ -1,0 +1,3 @@
+file size distribution,application,genextreme,{'shape':-2.175808047,'scale':7600.106019,'loc':3420.754429}
+file size distribution,application,genpareto,{'shape':2.36970112,'scale':4250.72871,'threshold':-2.220446049e-15}
+file size distribution,application,tlocationscale,{mu:1431.888551,sigma:1674.345133,nu:0.3265091135}

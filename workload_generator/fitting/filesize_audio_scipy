@@ -1,0 +1,7 @@
+file size distribution,audio,genpareto,{'shape':3.776394061,'scale':67176.96527,'threshold':-2.220446049e-15}
+file size distribution,audio,genextreme,{'shape':-3.671384373,'scale':1549261.421,'loc':421559.3266}
+file size distribution,audio,expon,{'loc':4400813.751}
+file size distribution,audio,t,{'loc':2206884.758,'scale':2722376.938,'df':2.215363148}
+file size distribution,audio,logistic,{'loc':3091871.11,'scale':2874318.695}
+file size distribution,audio,norm,{'loc':4400813.751,'scale':14861513.29}
+file size distribution,audio,gumbel_r,{'loc':36124880.79,'scale':345402046.}

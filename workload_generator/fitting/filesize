@@ -1,0 +1,7 @@
+audio,generalized pareto,k=3.776394061 sigma=67176.96527 theta=-2.220446049e-15
+application,generalized extreme value,k=2.175808047 sigma=7600.106019 mu=3420.754429
+chemical,generalized extreme value,k=3.357263465 sigma=6444.227397 mu=1915.617574
+image,generalized extreme value,k=2.576589721 sigma=10463.33809 mu=4039.572743
+message,generalized pareto,k=2.194836697 sigma=4794.324632 theta=-2.220446049e-15
+text,generalized pareto,k=1.233440844 sigma=2869.775258 theta=-2.220446049e-15
+video,generalized pareto,k=2.363544621 sigma=2469412.755 theta=-2.220446049e-15

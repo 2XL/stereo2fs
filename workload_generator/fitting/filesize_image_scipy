@@ -1,0 +1,7 @@
+file size distribution,image,genextreme,{'shape':-2.576589721,'scale':10463.33809,'loc':4039.572743}
+file size distribution,image,genpareto,{'shape':2.997360305,'scale':3871.172228,'threshold':-2.220446049e-15}
+file size distribution,image,t,{'loc':963.5133447,'scale':1315.928598,'df':0.2622625008}
+file size distribution,image,expon,{'loc':440268.24}
+file size distribution,image,logistic,{'loc':438312.8139,'scale':310667.3359}
+file size distribution,image,norm,{'loc':440268.24,'scale':5005418.72}
+file size distribution,image,gumbel_r,{'loc':29302750.81,'scale':355239649.}

@@ -1,0 +1,7 @@
+image,generalized extreme value,k=2.576589721 sigma=10463.33809 mu=4039.572743
+image,generalized pareto,k=2.997360305 sigma=3871.172228 theta=-2.220446049e-15
+image,tlocationscale,mu=963.5133447 sigma=1315.928598 nu=0.2622625008
+image,exponential,mu=440268.24
+image,logistic,mu=438312.8139 sigma=310667.3359
+image,normal,mu=440268.24 sigma=5005418.72
+image,extreme value,mu=29302750.81 sigma=355239649.1

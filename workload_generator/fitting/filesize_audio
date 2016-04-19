@@ -1,0 +1,7 @@
+audio,generalized pareto,k=3.776394061 sigma=67176.96527 theta=-2.220446049e-15
+audio,generalized extreme value,k=3.671384373 sigma=1549261.421 mu=421559.3266
+audio,exponential,mu=4400813.751
+audio,tlocationscale,mu=2206884.758 sigma=2722376.938 nu=2.215363148
+audio,logistic,mu=3091871.11 sigma=2874318.695
+audio,normal,mu=4400813.751 sigma=14861513.29
+audio,extreme value,mu=36124880.79 sigma=345402046.5

@@ -1,0 +1,7 @@
+chemical,generalized extreme value,k=3.357263465 sigma=6444.227397 mu=1915.617574 
+chemical,generalized pareto,k=2.490452946 sigma=1955.040507 theta=-2.220446049e-15 
+chemical,tlocationscale,mu=1955.777765 sigma=3074.481588 nu=0.489616925 
+chemical,logistic,mu=250874.2812 sigma=67389.30432 
+chemical,exponential,mu=250930.2461 
+chemical,normal,mu=250930.2461 sigma=6188305.647 
+chemical,extreme value,mu=19163782.98 sigma=179741283.6 

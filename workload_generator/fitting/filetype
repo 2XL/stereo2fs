@@ -1,0 +1,75 @@
+    get,birnbaumsaunders,beta=58566.16892 gamma=3.338808329
+    get,nakagami,mu=0.1853297405 omega=3.872707979e+11
+    get,gamma,a=0.4064988556 b=1031976.899
+    get,weibull,A=258397.1379 B=0.5266762148
+    get,lognormal,mu=11.33221361 sigma=2.533343506
+    get,loglogistic,mu=11.42745978 sigma=1.451016282
+    get,generalized extreme value,k=4.514309044 sigma=56749.9756 mu=14347.75827
+    get,exponential,mu=419497.4286
+    get,inverse gaussian,mu=419497.4286 lambda=10019.46945
+    get,normal,mu=419497.4286 sigma=496495.8774
+    get,logistic,mu=382225.8013 sigma=287810.0003
+    get,extreme value,mu=657071.6024 sigma=441604.9339
+    get,tlocationscale,mu=419454.2611 sigma=459686.0382 nu=4453064.758
+    get,rayleigh,B=440040.2243
+    get,rician,s=2803.462826 sigma=25730.01321
+    put,nakagami,mu=0.2464772677 omega=1.315997157e+14
+    put,gamma,a=0.5538422404 b=15113872.75
+    put,birnbaumsaunders,beta=1339054.471 gamma=2.868468459
+    put,exponential,mu=8370701.143
+    put,weibull,A=6906560.281 B=0.6865502986
+    put,lognormal,mu=14.81121126 sigma=2.243376767
+    put,loglogistic,mu=15.10014625 sigma=1.213568639
+    put,generalized extreme value,k=4.721873526 sigma=2821196.978 mu=660041.9514
+    put,inverse gaussian,mu=8370701.143 lambda=350818.7388
+    put,normal,mu=8370701.143 sigma=8472677.129
+    put,logistic,mu=8370693.816 sigma=4671238.529
+    put,extreme value,mu=12463722.03 sigma=7870397.267
+    put,tlocationscale,mu=8370425.625 sigma=7843941.163 nu=10028893.48
+    put,rayleigh,B=8111711.154
+    put,rician,s=2495.343727 sigma=25733.53365
+    make,birnbaumsaunders,beta=1096094.682 gamma=2.75394044
+    make,generalized extreme value,k=3.851523454 sigma=59062.68309 mu=74479.1754
+    make,nakagami,mu=0.1953180653 omega=6.337052101e+13
+    make,gamma,a=0.433566791 b=12398837.4
+    make,weibull,A=3465088.509 B=0.5532410026
+    make,lognormal,mu=13.99915091 sigma=2.328502908
+    make,inverse gaussian,mu=5375724.143 lambda=244890.4758
+    make,loglogistic,mu=14.02828599 sigma=1.361947917
+    make,exponential,mu=5375724.143
+    make,normal,mu=5375724.143 sigma=6341723.959
+    make,logistic,mu=4898690.642 sigma=3691169.516
+    make,extreme value,mu=8402236.533 sigma=5542765.806
+    make,tlocationscale,mu=5376725.163 sigma=5871378.972 nu=2011463.195
+    make,rayleigh,B=5628966.202
+    make,rician,s=2502.294494 sigma=25733.50658
+    unlink,birnbaumsaunders,beta=238314.2479 gamma=2.761885969
+    unlink,nakagami,mu=0.1916967488 omega=3.15731478e+12
+    unlink,gamma,a=0.4298163522 b=2719659.54
+    unlink,weibull,A=741331.1861 B=0.5500208704
+    unlink,lognormal,mu=12.45819827 sigma=2.321308482
+    unlink,inverse gaussian,mu=1168954.143 lambda=52735.48589
+    unlink,generalized extreme value,k=4.151092772 sigma=283147.9381 mu=80447.06286
+    unlink,loglogistic,mu=12.48011098 sigma=1.35460028
+    unlink,exponential,mu=1168954.143
+    unlink,normal,mu=1168954.143 sigma=1445454.193
+    unlink,logistic,mu=1021162.345 sigma=810234.5549
+    unlink,extreme value,mu=1874169.212 sigma=1369575.367
+    unlink,tlocationscale,mu=1168894.348 sigma=1338262.493 nu=6311992.415
+    unlink,rayleigh,B=1256446.334
+    unlink,rician,s=2593.223535 sigma=25732.92564
+    move,birnbaumsaunders,beta=37883.51125 gamma=4.082502883
+    move,weibull,A=168478.2206 B=0.4543241426
+    move,lognormal,mu=10.78323487 sigma=2.766765266
+    move,gamma,a=0.3303230084 b=1139285.285
+    move,nakagami,mu=0.1435002087 omega=5.095478373e+11
+    move,generalized extreme value,k=4.1301917 sigma=16735.75068 mu=4813.400098
+    move,loglogistic,mu=10.84883002 sigma=1.563928606
+    move,inverse gaussian,mu=376332.1429 lambda=4388.609149
+    move,exponential,mu=376332.1429
+    move,tlocationscale,mu=5135.301898 sigma=6335.51894 nu=0.305270161
+    move,logistic,mu=235974.3168 sigma=280158.8745
+    move,normal,mu=376332.1429 sigma=655165.8427
+    move,extreme value,mu=723389.0827 sigma=766055.2095
+    move,rayleigh,B=504751.3434
+    move,rician,s=2696.439813 sigma=25731.75983
