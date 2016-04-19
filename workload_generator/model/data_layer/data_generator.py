@@ -246,7 +246,6 @@ if __name__ == '__main__':
             todo = random.randint(0, 9)
             do_list[todo]()
 
-
         '''DANGER! This deletes a directory recursively!'''
         if not DEBUG:
             shutil.rmtree(FS_SNAPSHOT_PATH)

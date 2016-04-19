@@ -5,7 +5,18 @@ workload_generator/fitting/min
 workload_generator/fitting/d
 workload_generator/fitting/*.dat
 workload_generator/external/impressions
-
+workload_generator/rmq_executor
+workload_generator/simulator
+workload_generator/traces
+workload_generator/updates_content
+workload_generator/user_stereotypes/ba*
+workload_generator/user_stereotypes/*.csv
+workload_generator/*.pid
+workload_generator/*.txt
+workload_generator/*.md
+workload_generator/*.old
+workload_generator/*.iml
+*.pyc
 
 
 
